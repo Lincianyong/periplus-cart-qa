@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-02T23:27:58 WIB" name="Surefire suite" finished-at="2025-06-02T23:28:25 WIB" duration-ms="26489">
+    <groups>
+    </groups>
+    <test started-at="2025-06-02T23:27:58 WIB" name="Surefire test" finished-at="2025-06-02T23:28:25 WIB" duration-ms="26489">
+      <class name="com.periplus.CartTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.periplus.CartTest@71b1176b]" started-at="2025-06-02T23:27:58 WIB" name="setUp" finished-at="2025-06-02T23:28:00 WIB" duration-ms="1614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginSearchAndAddToCart()[pri:0, instance:com.periplus.CartTest@71b1176b]" started-at="2025-06-02T23:28:00 WIB" name="testLoginSearchAndAddToCart" finished-at="2025-06-02T23:28:24 WIB" duration-ms="24727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginSearchAndAddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.periplus.CartTest@71b1176b]" started-at="2025-06-02T23:28:24 WIB" name="tearDown" finished-at="2025-06-02T23:28:25 WIB" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.periplus.CartTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
